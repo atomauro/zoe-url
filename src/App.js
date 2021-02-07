@@ -97,7 +97,7 @@ export default function App() {
            <p>SELECCIONA LA RED DE ETHEREUM</p>
           </div>
           <div style={{display:'flex', justifyContent:'center'}}>
-          <img alt="qr" style={{width:200, height:200}} src={erc20}></img>
+          <img alt="qr" style={{width:250, height:250}} src={erc20}></img>
 
 </div>
         
@@ -139,7 +139,7 @@ export default function App() {
            <p>SELECCIONA LA RED DE TRON y LA OPCIÓN TRC20</p>
           </div>
           <div style={{display:'flex', justifyContent:'center'}}>
-          <img alt="qr" style={{width:200, height:200}} src={trc20}></img>
+          <img alt="qr" style={{width:250, height:250}} src={trc20}></img>
 
 </div>
         <p style={{background:'#FFFFFF', color:'#000000', padding:20, borderRadius:10}}>
