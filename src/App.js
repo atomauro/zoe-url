@@ -25,7 +25,14 @@ function App() {
         >
           COPIAR
         </p>
+        <p style={{background:'#FFFFFF', color:'#000000', padding:10, borderRadius:10}}>
+        Siglas: 6
+        </p>  
+        <p style={{background:'#FFFFFF', color:'#000000', padding:10, borderRadius:10, marginTop:0}}>
+        Decimales: 10
+        </p>
       </header>
+      
     </div>
   );
 }
